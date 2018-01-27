@@ -26,3 +26,13 @@ Release Date: Jan 23, 2018
 -   controllers
 
     -   Welcome.php (NZ)
+	-   Welcome.php - Updated (NW) 
+
+-   core
+
+    -   MY_Controller.php (NW)
+	
+-   view
+
+    -   welcome.php (NW)
+	-   template.php (NW)
